@@ -1,0 +1,12 @@
+{
+  "name": "aminat-2",
+  "version": "1.0.0",
+  "main": "Q1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:api": "nodemon Q2.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
